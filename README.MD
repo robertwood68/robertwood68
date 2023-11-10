@@ -19,7 +19,7 @@
 - :school: I am a `Senior` at [York College of Pennsylvania](https://www.ycp.edu/)
 - :technologist: **Currently working on** `Fullstack Development`, `Network Development`, **&** `creating my own language`!
 - :boom: You can visit my [Portfolio](https://robertwood.dev) for more information about who I am and what I do
-- :email: Feel free to reach out to me here [![Send me Email](https://img.shields.io/badge/Gmail-L.robertwood%40gmail.com-000001?style=plastic&logo=Gmail&logoColor=white&labelColor=EA4335&color=e8f0fe)](mailto:l.robertwood@gmail.com)
+- :email: [![Send me Email](https://img.shields.io/badge/Gmail-L.robertwood%40gmail.com-000001?style=plastic&logo=Gmail&logoColor=white&labelColor=EA4335&color=e8f0fe)](mailto:l.robertwood@gmail.com)
 
 <br>
 
@@ -37,6 +37,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=plastic&logo=Swift&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
+![Gurt](https://custom-icon-badges.demolab.com/badge/Gurt-66b2ff?style=plastic&logo=gurt&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=plastic&logo=arduino&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-96c53a?style=plastic)
 ![MIPS Assembly](https://img.shields.io/badge/MIPS-006cb5?style=plastic&logo=codeium&logoColor=white)
