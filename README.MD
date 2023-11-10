@@ -19,7 +19,7 @@
 - :school: I am a `Senior` at [York College of Pennsylvania](https://www.ycp.edu/)
 - :technologist: **Currently working on** `Fullstack Development`, `Network Development`, **&** `creating my own language`!
 - :boom: You can visit my [Portfolio](https://robertwood.dev) for more information about who I am and what I do
-- :email: Feel free to reach out to me here [![Send me Email](https://img.shields.io/badge/Gmail-L.robertwood%40gmail.com-000001?style=plastic&logo=Gmail&logoColor=white&labelColor=EA4335&amp;style=flat-square)](mailto:l.robertwood@gmail.com)
+- :email: Feel free to reach out to me here [![Send me Email](https://img.shields.io/badge/Gmail-L.robertwood%40gmail.com-000001?style=plastic&logo=Gmail&logoColor=white&labelColor=EA4335&color=e8f0fe)](mailto:l.robertwood@gmail.com)
 
 <br>
 
@@ -36,6 +36,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=Typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=plastic&logo=Swift&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=plastic&logo=arduino&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-96c53a?style=plastic)
 ![MIPS Assembly](https://img.shields.io/badge/MIPS-006cb5?style=plastic&logo=codeium&logoColor=white)
@@ -65,33 +66,34 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![SQL Server]()
-![NGINX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=OpenSSL&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=plastic&logo=Microsoft%20SQL%20Server&logoColor=white)
+![NGINX](https://img.shields.io/badge/nginx-009639?style=plastic&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=.net&logoColor=white)
+![JSON](https://img.shields.io/badge/json-000000?style=plastic&logo=json&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=plastic&logo=openssl&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Visual Studio 2022]()
-![Eclipse]()
-![CLion]()
-![IntelliJ]()
-![PyCharm]()
-![Rider]()
-![Visual Studio 2022]()
-![Visual Studio 2022]()
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=plastic&logo=eclipse%20ide&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=plastic&logo=clion&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=plastic&logo=Intellij%20IDEA&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=pycharm&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?style=plastic&logo=rider&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=plastic&logo=visual%20studio%20code&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=plastic&logo=windows%20xp&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=plastic&logo=windows%2010&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=plastic&logo=windows%2011&logoColor=white)
+![MacOS](https://img.shields.io/badge/Mac%20OS-000000?style=plastic&logo=macos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 
 <br>
 
