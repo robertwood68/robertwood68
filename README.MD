@@ -19,7 +19,7 @@
 - :school: I am a `Senior` at [York College of Pennsylvania](https://www.ycp.edu/)
 - :technologist: **Currently working on** `Fullstack Development`, `Network Development`, **&** `creating my own language`!
 - :boom: You can visit my [Portfolio](https://robertwood.dev) for more information about who I am and what I do
-- :email: Feel free to reach out to me at this [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=l.robertwood@gmail.com&amp;color=EA4335&amp;style=flat-square)](mailto:l.robertwood@gmail.com)
+- :email: Feel free to reach out to me here [![Send me Email](https://img.shields.io/badge/Gmail-L.robertwood%40gmail.com-000001?style=plastic&logo=Gmail&logoColor=white&labelColor=EA4335&amp;style=flat-square)](mailto:l.robertwood@gmail.com)
 
 <br>
 
