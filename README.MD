@@ -35,7 +35,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=plastic&logo=Swift&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white)
-![Gurt](https://custom-icon-badges.demolab.com/badge/Gurt-66b2ff?style=plastic&logo=gurt&logoColor=white)
+![Img https://custom-icon-badges.demolab.com/badge/Gurt-66b2ff?style=plastic&logo=gurt&logoColor=white](https://github.com/robertwood68/Gurt/tree/main)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=plastic&logo=arduino&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-96c53a?style=plastic)
 ![MIPS Assembly](https://img.shields.io/badge/MIPS-006cb5?style=plastic&logo=codeium&logoColor=white)
