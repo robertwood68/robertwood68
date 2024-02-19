@@ -24,7 +24,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 - :school: I am a `Senior` at [York College of Pennsylvania](https://www.ycp.edu/)
-- :technologist: **Currently working on** `Fullstack Development`, `RevMetrix Capstone Project`, **&** `Local Home Server Development`!
+- :technologist: **Currently working on** `Fullstack Development`, `RevMetrix Capstone Project`, **&** `Home Server Setup`!
 - :boom: You can visit my [Portfolio](https://robertwood.dev) for more information about who I am and what I do
 - :email: [![Send me Email](https://img.shields.io/badge/Gmail-L.robertwood%40gmail.com-000001?style=plastic&logo=Gmail&logoColor=white&labelColor=EA4335&color=e8f0fe)](mailto:l.robertwood@gmail.com)
 
