@@ -132,16 +132,18 @@
 </p>        
 <!--- stats (end) -->
 
+<br>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
 <!--profile visit count-->
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/robertwood68/count.svg" />
 </p>
-
-<br>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 -----------
 
