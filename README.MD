@@ -1,11 +1,8 @@
 <!--profile visit count-->
-
-<div align="center">
-
-
-![https://visitcount.itsvg.in/api?id=robertwood68&label=Profile%20Views&color=1&pretty=false](https://visitcount.itsvg.in)
-
-</div>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/robertwood68/count.svg" />
+</p>
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -140,6 +137,10 @@
 <!--- trophy (start) -->
 </p>        
 <!--- stats (end) -->
+
+<div align="center">
+[![](https://visitcount.itsvg.in/api?id=robertwood68&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+</div>
 
 <br>
 
