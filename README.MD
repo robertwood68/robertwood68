@@ -5,7 +5,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Welcome to my GitHub!👋 I'm Robert Wood</h1></summary>
+    <summary><h1 style="display: inline-block">Welcome to my GitHub!👋 I'm Rob Wood</h1></summary>
   </ul>
 </div>
 
